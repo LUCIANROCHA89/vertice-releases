@@ -1,0 +1,15 @@
+{
+  "vertice_crm": {
+    "versionCode": 12,
+    "versionName": "1.0.11",
+    "url": "https://github.com/LUCIANROCHA89/vertice-releases/releases/download/vertice-crm-v1.0.11/Vertice-1.0.11.apk",
+    "sha256": "5d53c2aad55d73bb7ded837151988c43c39c7252b5e3036bf49e11870cb42e9f",
+    "tamanhoMB": 0.1,
+    "obrigatoria": false,
+    "minVersionCodeSuportado": 1,
+    "novidades": [
+      "Versão atual do app, a mesma já instalada nos aparelhos."
+    ],
+    "data": "2026-11-08"
+  }
+}
