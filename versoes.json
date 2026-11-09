@@ -1,16 +1,16 @@
 {
   "vertice_crm": {
-    "versionCode": 14,
-    "versionName": "1.0.13",
-    "url": "https://github.com/LUCIANROCHA89/vertice-releases/releases/download/vertice-crm-v1.0.13/Vertice-1.0.13.apk",
-    "sha256": "a23644b69627a00288adcf3514ab56bad46178d904e3d39091b52d7592c92547",
+    "versionCode": 15,
+    "versionName": "1.0.14",
+    "url": "https://github.com/LUCIANROCHA89/vertice-releases/releases/download/vertice-crm-v1.0.14/Vertice-1.0.14.apk",
+    "sha256": "7e062931ab841b7cdadd52b1793b72930c09070cb874c1a503741a32ef36994d",
     "tamanhoMB": 0.1,
     "obrigatoria": false,
     "minVersionCodeSuportado": 1,
     "novidades": [
-      "O app passa a avisar quando houver versão nova e atualiza com um toque (também em Preferências → Aplicativo → Verificar atualizações).",
-      "Quem tem a versão 1.0.12: instale por cima, sem desinstalar.",
-      "Quem tem a versão 1.0.11: desinstale o app antes de instalar esta versão e entre de novo com a sua conta."
+      "Preparação para o novo servidor do Vértice: quando ele for ligado, o app passa a usá-lo sozinho (será preciso entrar de novo uma única vez). Até lá, nada muda no uso.",
+      "Senha temporária: a troca agora é feita no próprio app, e você já entra em seguida.",
+      "Atualize por cima, sem desinstalar: você continua conectado."
     ],
     "data": "2026-11-08"
   }
