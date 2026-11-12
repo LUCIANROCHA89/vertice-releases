@@ -1,16 +1,16 @@
 {
   "vertice_crm": {
-    "versionCode": 17,
-    "versionName": "1.0.16",
-    "url": "https://github.com/LUCIANROCHA89/vertice-releases/releases/download/vertice-crm-v1.0.16/Vertice-1.0.16.apk",
-    "sha256": "9a26f7b52c39720ea85b0425cb0996f3cdbcb2a9430cd256a40a706355443579",
+    "versionCode": 18,
+    "versionName": "1.0.17",
+    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.17",
+    "sha256": "7429ae49b69988416d086ef4d166c3aca93ef0af837fbdc6d75e63b0f8963757",
     "tamanhoMB": 0.1,
     "obrigatoria": false,
     "minVersionCodeSuportado": 15,
     "novidades": [
+      "O download do app agora é privado: só quem tem conta no Vértice baixa e atualiza.",
       "Contrato: forma de pagamento em cada parcela e descrição de cada ambiente.",
-      "Ver PDF abre o orçamento e o contrato no leitor de PDF do aparelho.",
-      "Atualize por cima, sem desinstalar."
+      "Ver PDF abre o orçamento e o contrato no leitor de PDF do aparelho."
     ],
     "data": "2026-11-12",
     "servidor": "supabase"
