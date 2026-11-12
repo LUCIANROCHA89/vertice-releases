@@ -1,17 +1,18 @@
 {
   "vertice_crm": {
-    "versionCode": 15,
-    "versionName": "1.0.14",
-    "url": "https://github.com/LUCIANROCHA89/vertice-releases/releases/download/vertice-crm-v1.0.14/Vertice-1.0.14.apk",
-    "sha256": "7e062931ab841b7cdadd52b1793b72930c09070cb874c1a503741a32ef36994d",
+    "versionCode": 16,
+    "versionName": "1.0.15",
+    "url": "https://github.com/LUCIANROCHA89/vertice-releases/releases/download/vertice-crm-v1.0.15/Vertice-1.0.15.apk",
+    "sha256": "0c633105250ce499ffeec7449fcc08d4d4ffaf873236e777f415e05bd99be0a5",
     "tamanhoMB": 0.1,
     "obrigatoria": false,
-    "minVersionCodeSuportado": 1,
+    "minVersionCodeSuportado": 15,
     "novidades": [
-      "Preparação para o novo servidor do Vértice: quando ele for ligado, o app passa a usá-lo sozinho (será preciso entrar de novo uma única vez). Até lá, nada muda no uso.",
-      "Senha temporária: a troca agora é feita no próprio app, e você já entra em seguida.",
-      "Atualize por cima, sem desinstalar: você continua conectado."
+      "O Vértice mudou para o novo servidor: ao atualizar, o app passa a usá-lo sozinho (entre de novo uma única vez).",
+      "Novo menu CONFIGURAÇÕES e permissões novas para ADMIN e SUPERVISOR.",
+      "Atualize por cima, sem desinstalar."
     ],
-    "data": "2026-11-08"
+    "data": "2026-11-12",
+    "servidor": "supabase"
   }
 }
