@@ -1,16 +1,16 @@
 {
   "vertice_crm": {
-    "versionCode": 19,
-    "versionName": "1.0.18",
-    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.18",
-    "sha256": "e245cfcc42fff0bf553c142597eb11b7bf4e72d03fa364ae941502e11c438fa4",
+    "versionCode": 20,
+    "versionName": "1.0.19",
+    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.19",
+    "sha256": "875ec810a10fe6627b39ad223b78a800f62906213f3a2be2e512f94dff63f605",
     "tamanhoMB": 0.1,
     "obrigatoria": false,
     "minVersionCodeSuportado": 15,
     "novidades": [
-      "Visão geral nova: \"Como está o mês?\", com meta, projeção, indicadores, gráfico de 12 meses e alertas do dia.",
-      "Navegação em pílulas embaixo no celular: Início, Orçam., Clientes, Agenda e Mais.",
-      "Contrato com forma de pagamento por parcela; Ver PDF abre no leitor do aparelho."
+      "Minha meta e faixas de comissão em CONFIGURAÇÕES; a Visão geral usa a sua meta e a projeção por dias úteis.",
+      "Nome completo obrigatório: o app pede o nome no primeiro acesso se faltar.",
+      "Menus de escolha e calendário próprios, sem os controles padrão do Android."
     ],
     "data": "2026-11-12",
     "servidor": "supabase"
