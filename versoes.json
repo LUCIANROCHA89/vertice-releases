@@ -1,16 +1,16 @@
 {
   "vertice_crm": {
-    "versionCode": 18,
-    "versionName": "1.0.17",
-    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.17",
-    "sha256": "7429ae49b69988416d086ef4d166c3aca93ef0af837fbdc6d75e63b0f8963757",
+    "versionCode": 19,
+    "versionName": "1.0.18",
+    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.18",
+    "sha256": "e245cfcc42fff0bf553c142597eb11b7bf4e72d03fa364ae941502e11c438fa4",
     "tamanhoMB": 0.1,
     "obrigatoria": false,
     "minVersionCodeSuportado": 15,
     "novidades": [
-      "O download do app agora é privado: só quem tem conta no Vértice baixa e atualiza.",
-      "Contrato: forma de pagamento em cada parcela e descrição de cada ambiente.",
-      "Ver PDF abre o orçamento e o contrato no leitor de PDF do aparelho."
+      "Visão geral nova: \"Como está o mês?\", com meta, projeção, indicadores, gráfico de 12 meses e alertas do dia.",
+      "Navegação em pílulas embaixo no celular: Início, Orçam., Clientes, Agenda e Mais.",
+      "Contrato com forma de pagamento por parcela; Ver PDF abre no leitor do aparelho."
     ],
     "data": "2026-11-12",
     "servidor": "supabase"
