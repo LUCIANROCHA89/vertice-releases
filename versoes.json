@@ -1,18 +1,17 @@
 {
   "vertice_crm": {
-    "versionCode": 20,
-    "versionName": "1.0.19",
-    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.19",
-    "sha256": "875ec810a10fe6627b39ad223b78a800f62906213f3a2be2e512f94dff63f605",
+    "versionCode": 21,
+    "versionName": "1.0.20",
+    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.20",
+    "sha256": "0fcb636e1e88eeb6e5e0ce07e07781b5f76abc4e70b49c288656676c4a808463",
     "tamanhoMB": 0.1,
     "obrigatoria": false,
     "minVersionCodeSuportado": 15,
     "novidades": [
-      "Minha meta e faixas de comissão em CONFIGURAÇÕES; a Visão geral usa a sua meta e a projeção por dias úteis.",
-      "Nome completo obrigatório: o app pede o nome no primeiro acesso se faltar.",
-      "Menus de escolha e calendário próprios, sem os controles padrão do Android."
+      "Cabeçalho da Visão geral com a logo da empresa (PNG ou WebP) ou o nome da empresa.",
+      "Contato do consultor (e-mail profissional e WhatsApp) nos orçamentos."
     ],
-    "data": "2026-11-12",
+    "data": "2026-11-13",
     "servidor": "supabase"
   }
 }
