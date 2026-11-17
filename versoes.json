@@ -1,16 +1,14 @@
 {
   "vertice_crm": {
-    "versionCode": 25,
-    "versionName": "1.0.24",
-    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.24",
-    "sha256": "547d982ebc6345a6567bf33ffdb9eb87336d0df0386f7726d7666b3e7c216ef6",
+    "versionCode": 26,
+    "versionName": "1.0.25",
+    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.25",
+    "sha256": "78d5dd595711b1c24451c5dcf249aaa94ca54143d8b33d97a12da24fc805c74d",
     "tamanhoMB": 0.2,
     "obrigatoria": false,
     "minVersionCodeSuportado": 15,
     "novidades": [
-      "Widget do FLUXO com as cores do Vértice: fundo grafite ou creme, colunas em cor de acento, barras proporcionais e cartões com iniciais.",
-      "Widget em dois tamanhos: compacto (todas as colunas com número e barra) e grande (os cartões da coluna).",
-      "Painel: título dos cartões alinhado com o ícone."
+      "Widget do FLUXO sem contagem de cartões: o compacto mostra cada coluna com os 2 primeiros clientes; o grande mostra a coluna e a posição (1 de 6), com mais espaço para os cartões."
     ],
     "data": "2026-11-17",
     "servidor": "supabase"
