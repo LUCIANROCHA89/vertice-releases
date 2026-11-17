@@ -1,17 +1,18 @@
 {
   "vertice_crm": {
-    "versionCode": 21,
-    "versionName": "1.0.20",
-    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.20",
-    "sha256": "0fcb636e1e88eeb6e5e0ce07e07781b5f76abc4e70b49c288656676c4a808463",
-    "tamanhoMB": 0.1,
+    "versionCode": 24,
+    "versionName": "1.0.23",
+    "url": "https://zrenoivcnlopzqgliopd.supabase.co/functions/v1/baixar-app?app=vertice_crm&v=1.0.23",
+    "sha256": "de4baf6531dd7d6430597e9e5331380e8748d69567343086c272b8ba89313471",
+    "tamanhoMB": 0.2,
     "obrigatoria": false,
     "minVersionCodeSuportado": 15,
     "novidades": [
-      "Cabeçalho da Visão geral com a logo da empresa (PNG ou WebP) ou o nome da empresa.",
-      "Contato do consultor (e-mail profissional e WhatsApp) nos orçamentos."
+      "Visual novo em todas as telas: listas com iniciais, etiqueta da situação e valor à direita; busca e filtros em pílulas.",
+      "Calculadora de prazos nova e navegação só pelo menu ☰ (sem barra embaixo).",
+      "Painel: uma só comparação com o mês anterior e títulos sempre inteiros."
     ],
-    "data": "2026-11-13",
+    "data": "2026-11-17",
     "servidor": "supabase"
   }
 }
